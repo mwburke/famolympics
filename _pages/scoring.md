@@ -6,7 +6,7 @@ title: "Scoring"
 
 ## Judging
 
-A yearly commissioner can be nominated to plan the games, establish rules and identify *third-party independent*<sup>*</sup> judges. The first year's commissioner will be Matthew, and the commissioner will nominate the next commissioner for the following, who will also be Matthew.
+A yearly commissioner can be nominated to plan the games, establish rules and identify *third-party independent*<sup>*</sup> judges. The first year's commissioner will be Matthew, and the commissioner will nominate the next commissioner for the following year, who will most likely also be Matthew.
 
 \* This is not true.
 
