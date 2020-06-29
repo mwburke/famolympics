@@ -1,12 +1,12 @@
 ---
 layout: single
-permalink: /events
+permalink: /events/
 title: "Events"
 ---
 
 ## Event Signup
 
-Every year, the Famolympic athletes can register for a limited number of events. 
+Every year, the Famolympic athletes can register for a limited number of events.
 
 We are putting together a signup form currently which will be provided below. Please choose the events you want to compete in and submit it to the commissioner for approval.
 

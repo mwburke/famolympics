@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /schedule
+permalink: /schedule/
 title: "Schedule"
 ---
 
